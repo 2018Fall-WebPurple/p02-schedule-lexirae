@@ -1,0 +1,20 @@
+/*
+*Lexi Hall
+*October 18, 2018
+*Schedule Project
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { 
+    background-color: lightgreen;
+} 
+
+thead {background-color: cornflowerblue;}
+tfoot {background-color: crimson;}
